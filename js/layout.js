@@ -57,9 +57,9 @@ class SiteFooter extends HTMLElement {
         </div>
         <div class="footerColumn">
           <h2>Leituras Úteis</h2>
-          <a href="https://unifor.br/-/confira-dicas-para-organizar-a-rotina-de-estudos-e-manter-o-conteudo-das-aulas-em-dia">Rotina de Estudos</a>
-          <a href="https://forbes.com.br/coluna/2022/07/arthur-guerra-lista-de-tarefas-e-uma-boa-ferramenta-para-ajudar-a-reduzir-a-ansiedade/">Tarefas e Ansiedade</a>
-          <a href="https://www.fsa.br/rotina-de-estudos-na-faculdade/">Estudos na Faculdade</a>
+          <a href="https://unifor.br/-/confira-dicas-para-organizar-a-rotina-de-estudos-e-manter-o-conteudo-das-aulas-em-dia" target="_blank" rel="noopener">Rotina de Estudos</a>
+          <a href="https://forbes.com.br/coluna/2022/07/arthur-guerra-lista-de-tarefas-e-uma-boa-ferramenta-para-ajudar-a-reduzir-a-ansiedade/" target="_blank" rel="noopener">Tarefas e Ansiedade</a>
+          <a href="https://www.fsa.br/rotina-de-estudos-na-faculdade/" target="_blank" rel="noopener">Estudos na Faculdade</a>
         </div>
       </div>
       <p class="footerBottom">© 2026 PMW Tasks — Projeto acadêmico</p>
